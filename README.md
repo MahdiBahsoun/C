@@ -1,1 +1,1 @@
-# c/c++ basic functions.
+# C/C++ basic functions.
